@@ -61,7 +61,7 @@ python3 back_remove.py folder_output/ folder_before_final/
 ### Adversarial GF-Net
 
 ```
-coming soon
+You could use ``parser`` to change the hyper-parameters of GF-Net, which could be found in  ``main_sl.py``
 ```
 
 If you have any question about the implementation of GFNet or data pre-processing, please contact me through 
